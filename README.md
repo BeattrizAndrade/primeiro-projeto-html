@@ -2,4 +2,4 @@
 <br>
 <br>
 <br>
-<p> Meu priemiro projeto praticando os conhecimentos em HTML e CSS, adquirido no curso DevClub. </p> 
+<p> Meu primeiro projeto formulario praticando os conhecimentos em HTML e CSS, adquirido no curso DevClub. </p> 
